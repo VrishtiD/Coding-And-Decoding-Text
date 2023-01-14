@@ -1,7 +1,7 @@
 # Coding-And-Decoding-Text
 This program succesfully encodes the whole text into binary digits using Huffman Coding principles. It also tries decode the encoded text in the end.
 
-This program uses the huffman coding principles to decode any text 
+This program uses the huffman coding principles to decode any text and also uses the concepts of binary trees to implemnt encoding and decoding.
 
 It works on assigning the less number of bits to the alphabet occuring frequently.
 
