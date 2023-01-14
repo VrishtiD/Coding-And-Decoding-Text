@@ -1,0 +1,26 @@
+Assignment 5
+outputs
+
+Test 1
+
+Enter the filename to read from: LettersProbability.txt
+Enter a line of text (uppercase letters only): THISISCOOL
+Here’s the encoded line:    00001011100100111001001010001101110110111
+Here’s the Decoded line:    TTTTTTTTTT
+Process finished with exit code 0
+
+TEST 2
+
+Enter the filename to read from: LettersProbability.txt
+Enter a line of text (uppercase letters only): VRISHTIDAWRA
+Here’s the encoded line:    0010101000110010010101000110011111111011110110001110
+Here’s the Decoded line:    TTTTTTTTTTTT
+Process finished with exit code 0
+
+TEST3
+
+Enter the filename to read from: LettersProbability.txt
+Enter a line of text (uppercase letters only): DALHOUSIE
+Here’s the encoded line:    11111111010111010111010100110011100011
+Here’s the Decoded line:    TTTTTTTTT
+Process finished with exit code 0
